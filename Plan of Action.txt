@@ -1,0 +1,6 @@
+
+1) Gather monster descriptions from the monster manual
+2) Add monster types for tags by making a web scraper from:
+	https://www.aidedd.org/dnd-filters/monsters.php
+3) Create model based off of the monster descriptions
+4) Add ability to enter prompts and filter by monster type
